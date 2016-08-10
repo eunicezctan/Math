@@ -12,7 +12,7 @@ import android.widget.TextView;
 
 public class MainActivity extends AppCompatActivity {
 
-
+    //Declared local variables to get % and number input from user
     TextView totalTextView;
     EditText percentageTxt;
     EditText numberTxt;
@@ -24,8 +24,7 @@ public class MainActivity extends AppCompatActivity {
         Toolbar toolbar = (Toolbar) findViewById(R.id.toolbar);
         setSupportActionBar(toolbar);
 
-
-
+        //assign ids to variables
         totalTextView = (TextView) findViewById(R.id.totalTextView);
         percentageTxt = (EditText) findViewById(R.id.percentageTxt);
         numberTxt = (EditText) findViewById(R.id.numberTxt);
@@ -36,6 +35,7 @@ public class MainActivity extends AppCompatActivity {
             @Override
             public void onClick(View view) {
 
+                //Calculate the result and display in textview
                 float percentage = Float.parseFloat(percentageTxt.getText().toString());
                 float dec = percentage / 100;
                 float result = dec *  Float.parseFloat(numberTxt.getText().toString());
