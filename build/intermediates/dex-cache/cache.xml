@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/lingyin/AndroidStudioProjects/Math/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.1.1/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="6d7d803871e3203465f71a163e7af104f807b446">
+        <dex dex="/Users/lingyin/AndroidStudioProjects/Math/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-24.1.1_69c3d3a8dffa3b6385f46ce13d7e8a2b2ea51101/classes.dex" />
+    </item>
+    <item
+        jar="/Users/lingyin/AndroidStudioProjects/Math/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.1.1/jars/libs/internal_impl-24.1.1.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="f78c2f395cb096f9dc1dc07e729922b8fcd3c4f5">
+        <dex dex="/Users/lingyin/AndroidStudioProjects/Math/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.1.1_5646ef2078416bc4484aad3084ff6f98f1239721/classes.dex" />
+    </item>
+    <item
+        jar="/Users/lingyin/AndroidStudioProjects/Math/app/build/intermediates/exploded-aar/com.android.support/design/24.1.1/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="e195bd694d5389acfba27ff4fdfa64c4c65b2c05">
+        <dex dex="/Users/lingyin/AndroidStudioProjects/Math/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-24.1.1_a19562b257d2ed4354887195fde01f3b08844a55/classes.dex" />
+    </item>
+    <item
+        jar="/Users/lingyin/AndroidStudioProjects/Math/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.1.1/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="f62e763609f65e47dc6c498760a4accf02776788">
+        <dex dex="/Users/lingyin/AndroidStudioProjects/Math/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-24.1.1_ae0ff48cc8a36b575b959b2987ce63ffa5a0b65a/classes.dex" />
+    </item>
+    <item
+        jar="/Users/lingyin/AndroidStudioProjects/Math/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/24.1.1/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="787871951412550519b0222aba3c9df4cea49875">
+        <dex dex="/Users/lingyin/AndroidStudioProjects/Math/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-24.1.1_80d627470b46797517ff25dfea56414aea802d4a/classes.dex" />
+    </item>
+    <item
+        jar="/Users/lingyin/.gradle/caches/modules-2/files-2.1/com.android.support/support-annotations/24.1.1/3af19f153122737b372622fa6c81dd11a1c6b999/support-annotations-24.1.1.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="3af19f153122737b372622fa6c81dd11a1c6b999">
+        <dex dex="/Users/lingyin/AndroidStudioProjects/Math/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-24.1.1_68078608fb7bf561c8dd4dce1bbf9fb919d9bed7/classes.dex" />
+    </item>
+    <item
+        jar="/Users/lingyin/AndroidStudioProjects/Math/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="c9caf014ea6460d05606f94693036544fc25bd8f">
+        <dex dex="/Users/lingyin/AndroidStudioProjects/Math/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_b63a9cc414564bbbb44b747001c2a7834c911b3e/classes.dex" />
+    </item>
+    <item
+        jar="/Users/lingyin/AndroidStudioProjects/Math/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="990e3b6d50f42c572f5d78b8c614fb57b77f4873">
+        <dex dex="/Users/lingyin/AndroidStudioProjects/Math/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_5ea5f51637d44e0f56acecb4024983c5c01c694a/classes.dex" />
+    </item>
+    <item
+        jar="/Users/lingyin/AndroidStudioProjects/Math/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.1.1/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="c936c1bd42f0c018c18920c7bec619ef056b24f8">
+        <dex dex="/Users/lingyin/AndroidStudioProjects/Math/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-24.1.1_f0904ce6661045848cc3bdcba05f5c9128455a83/classes.dex" />
+    </item>
+    <item
+        jar="/Users/lingyin/AndroidStudioProjects/Math/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.1.1/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="1256c10604bb098490eab070d76754ac5ceab35c">
+        <dex dex="/Users/lingyin/AndroidStudioProjects/Math/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-24.1.1_f41e30a44ac557dab16f56244aee59a7213505eb/classes.dex" />
+    </item>
+
+</items>
